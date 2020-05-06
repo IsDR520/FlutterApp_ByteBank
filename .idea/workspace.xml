@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="054e33e0-dd67-496f-bcf6-4d698158c401" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Flutter/cozinhado_casa/lib/telas/detalhes/detalhes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Flutter/cozinhado_casa/lib/telas/detalhes/detalhes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flutter/cozinhado_casa/lib/telas/home/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Flutter/cozinhado_casa/lib/telas/home/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/ExerLivro/.indexes/e4/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/ExerLivro/.indexes/e4/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-encapsulado/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-encapsulado/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-encapsulado/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-encapsulado/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/3.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/4.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-variaveis-e-fluxo/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-variaveis-e-fluxo/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-variaveis-e-fluxo/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-variaveis-e-fluxo/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.resources/0.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoJS/introducao-javascript/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoJS/introducao-javascript/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoJS/introducao-javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoJS/introducao-javascript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoJS/introducao-javascript/js/calcula-imc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoJS/introducao-javascript/js/calcula-imc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoJS/introducao-javascript/js/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoJS/introducao-javascript/js/form.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bVZEwSOMjbdih50giQfCe62sp6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bytebank" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="054e33e0-dd67-496f-bcf6-4d698158c401" name="Default Changelist" comment="" />
+      <created>1588719114107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588719114107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-900" y="119" key="FileChooserDialogImpl" timestamp="1588719162580">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-900" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1588719162580" />
+  </component>
+</project>
