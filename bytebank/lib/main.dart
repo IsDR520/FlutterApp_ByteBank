@@ -14,7 +14,14 @@ class ByteBankApp extends StatelessWidget {
   }
 }
 
-class FormularioTransferencia extends StatelessWidget {
+class FormularioTransferencia extends StatefulWidget {
+  @override
+  State<StatefulWidget> createState() {
+    return FormularioTransferenciaState();
+  }
+}
+
+class FormularioTransferenciaState extends State<FormularioTransferencia> {
   final TextEditingController _controladorCampoNumeroConta =
       TextEditingController();
   final TextEditingController _controladorCampoValor = TextEditingController();
@@ -23,23 +30,25 @@ class FormularioTransferencia extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(title: Text('Criando Transferência')),
-        body: Column(
-          children: <Widget>[
-            Editor(
-              controlador: _controladorCampoNumeroConta,
-              rotulo: 'Número da Conta',
-              dica: '****',
-            ),
-            Editor(
-                controlador: _controladorCampoValor,
-                rotulo: 'Valor',
-                dica: '0,00',
-                icone: Icons.monetization_on),
-            RaisedButton(
-              child: Text('Confirmar'),
-              onPressed: () => _criaTransferencia(context),
-            ),
-          ],
+        body: SingleChildScrollView(
+          child: Column(
+            children: <Widget>[
+              Editor(
+                controlador: _controladorCampoNumeroConta,
+                rotulo: 'Número da Conta',
+                dica: '****',
+              ),
+              Editor(
+                  controlador: _controladorCampoValor,
+                  rotulo: 'Valor',
+                  dica: '0,00',
+                  icone: Icons.monetization_on),
+              RaisedButton(
+                child: Text('Confirmar'),
+                onPressed: () => _criaTransferencia(context),
+              ),
+            ],
+          ),
         ));
   }
 
@@ -110,7 +119,15 @@ class ListaTransferenciasState extends State<ListaTransferencias> {
             return FormularioTransferencia();
           }));
           future.then((transferenciaRecebida) {
-            widget._transferencias.add(transferenciaRecebida);
+            Future.delayed(Duration(seconds: 2), () {
+              if (transferenciaRecebida != null) {
+                setState(() {
+                  //ira fazer atualizacao do build
+                  widget._transferencias.add(
+                      transferenciaRecebida); //evitar bug: erro ao retornar
+                });
+              }
+            });
           }); //fazendo operacao assíncrona
         },
       ),
